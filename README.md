@@ -1,5 +1,6 @@
 # 📄 PDF Q&A with Generative AI (RAG)
 A Streamlit webapp to ask questions about any PDF document using Retrieval-Augmented Generation (RAG).
+# Access app here-https://gen-ai-rag-project-basic.streamlit.app/
 # 🚀 Overview
 This project demonstrates how to build a Generative AI application that can answer questions about the contents of a PDF file.
 - Users upload a PDF.
