@@ -1,9 +1,10 @@
 streamlit==1.38.0
 pypdf==4.3.1
 sentence-transformers==3.0.1
-transformers==4.44.2
+transformers==4.45.2
 torch==2.9.0
 numpy==2.2.2
 scikit-learn==1.5.2
 tokenizers>=0.20.0
+
 
